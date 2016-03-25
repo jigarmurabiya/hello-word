@@ -1,0 +1,11 @@
+diff a/testfile.md b/testfile.md	(rejected hunks)
+@@ -1,2 +1,7 @@
+ ugfuiw fgufefgbud udbuc
+-new line
+\ No newline at end of file
++<<<<<<< HEAD
++new line
++=======
++ihri fi hoibf f  v uife f 
++eivu efuvivheuivbfeuv efbv
++>>>>>>> 282a632f3882475b3f5b62c1b094e8db4f6dab3f
